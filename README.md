@@ -1,4 +1,4 @@
-# -oh-my-zsh-ubunyu
+# oh-my-zsh-ubunyu
 
 Prereq:
 
