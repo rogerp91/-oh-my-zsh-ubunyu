@@ -20,3 +20,8 @@ and then restart
     sudo shutdown -r 0
 
 This problem is explained in depth in [this issue](https://github.com/robbyrussell/oh-my-zsh/issues/227#issuecomment-825773)
+
+
+
+Install iTerm2 and oh my zsh
+https://www.youtube.com/watch?v=WuS09ECQ4H8
